@@ -43,7 +43,7 @@ Incluye: [Reporte.pdf](Reporte/Reporte.pdf)
 El proyecto permitió reforzar el uso de comunicación WiFi/HTTP entre una app móvil y un microcontrolador, así como el control de un motor DC mediante un puente H (L298N). Se comprendió la importancia de separar la alimentación de potencia (motor) de la alimentación lógica (Arduino) para evitar caídas de voltaje y funcionamiento inestable. También se reforzó el uso de reconocimiento de voz como interfaz de control en aplicaciones de IoT.
 
 ## Resultados
-[Resultados.pdf](Resultados/Resultados.pdf)
+Incluye: [Resultados.pdf](Resultados/Resultados.pdf)
 
 Este documento contiene la descripción de la práctica, objetivos y procedimientos realizados.
 
