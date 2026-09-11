@@ -27,7 +27,7 @@ Enumera todos los componentes usados:
 [Ver video en YouTube](https://www.youtube.com/watch?v=9R7mMfCSUC4)
 
 ## Evidencias de armado
-![Armado del sistema](Diagrama/Armado%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino,%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
+![Armado del sistema]<img src="Diagrama/Armado%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino,%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg" width="700">
 
 ## Terminal
 ![Terminal](Terminal/Terminal.jpeg)
