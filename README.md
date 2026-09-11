@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/32084597/README.md)
 # Nombre del proyecto
-Carrito Controlado por Voz vía WiFi
+Sistema de Control Remoto por Voz usando Arduino, WiFi y Reconocimiento de Voz
 
 ## Descripción
-El objetivo de este proyecto es controlar de forma remota un carrito robótico mediante comandos de voz, enviados desde una aplicación móvil hacia un Arduino conectado por WiFi, que acciona un motor DC a través de un puente H.
+El objetivo de este proyecto es controlar de forma remota una llanta mediante comandos de voz, enviados desde una aplicación móvil hacia un Arduino conectado por WiFi, que acciona un motor DC a través de un puente H.
 
 ## Objetivos de aprendizaje
 Programar y simular en Arduino el control de dirección y velocidad de un motor DC mediante un módulo controlador L298N, estableciendo comunicación inalámbrica (WiFi/HTTP) entre una aplicación móvil con reconocimiento de voz (MIT App Inventor) y la placa Arduino UNO R4 WiFi.
