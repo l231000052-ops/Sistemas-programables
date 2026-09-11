@@ -1,1 +1,1 @@
-	Aquí se subió los archivos con la información resultante de la practica
+	Aquí se subio los archivos con la información resultante de la practica
