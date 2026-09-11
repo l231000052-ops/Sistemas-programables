@@ -30,7 +30,7 @@ Enumera todos los componentes usados:
 ![Armado del sistema](Diagrama/Armado%20del%20Sistema%20de%20Control%20Remoto%20por%20Voz%20usando%20Arduino,%20WiFi%20y%20Reconocimiento%20de%20Voz.jpg)
 
 ## Terminal
-![Monitor Serie](Terminal/Terminal.jepg)
+![Terminal](Terminal/Terminal.jepg)
 
 ## Reporte
 Incluye: [Reporte.pdf](Reporte/Reporte.pdf)
