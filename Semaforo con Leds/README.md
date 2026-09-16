@@ -22,11 +22,11 @@ Modelar un sistema secuencial como una máquina de estados finitos (FSM) utiliza
 
 ## Diagrama del circuito
 
-![Diagrama del circuito](Diagrama semaforo.png)
+![Diagrama del circuito](Diagrama/Diagrama%20semaforo.png)
 
 ## Montaje físico
 
-![Armado](Armado.jpeg)
+![Armado](Diagrama/Armado.jpeg)
 
 ## Código
 
