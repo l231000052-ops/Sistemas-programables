@@ -22,7 +22,7 @@ Modelar un sistema secuencial como una máquina de estados finitos (FSM) utiliza
 
 ## Diagrama del circuito
 
-![Diagrama del circuito](Diagrama_semaforo.png)
+![Diagrama del circuito](Diagrama%20semaforo.png)
 
 ## Montaje físico
 
@@ -30,11 +30,11 @@ Modelar un sistema secuencial como una máquina de estados finitos (FSM) utiliza
 
 ## Código
 
-[Semaforo con Leds.ino](https://github.com/VHellsings/Sistemas-Programables/blob/main/Semaforo/codigo/Semaforo con Leds.ino)
+[Semaforo con Leds.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Semaforo%20con%20Leds/Codigo/Semaforo%20con%20Leds.ino)
 
 ## Reporte
 
-[Reporte_Semaforo.pdf](https://github.com/VHellsings/Sistemas-Programables/blob/main/Semaforo/Reporte/Reporte_Semaforo.pdf)
+[Reporte_Semaforo.pdf](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Semaforo%20con%20Leds/Reporte/Reporte.pdf)
 
 ## Resultados
 
