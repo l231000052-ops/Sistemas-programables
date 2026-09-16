@@ -24,7 +24,7 @@ Esta práctica tiene como propósito controlar el ángulo de un servomotor media
 
 El diagrama muestra la conexión de los componentes utilizados para realizar la práctica.
 
-![Diagrama.jpg](Diagrama/Diagrama.png)
+![Diagrama.jpg](Diagrama/Diagrama Servomotor.png)
 
 ![Armado.jpg](Diagrama/Armado.jpeg)
 
