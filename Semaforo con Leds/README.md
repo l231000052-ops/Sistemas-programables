@@ -30,7 +30,7 @@ Modelar un sistema secuencial como una máquina de estados finitos (FSM) utiliza
 
 ## Código
 
-[Semaforo.ino](https://github.com/VHellsings/Sistemas-Programables/blob/main/Semaforo/codigo/Semaforo.ino)
+[Semaforo con Leds.ino](https://github.com/VHellsings/Sistemas-Programables/blob/main/Semaforo/codigo/Semaforo con Leds.ino)
 
 ## Reporte
 
@@ -38,11 +38,11 @@ Modelar un sistema secuencial como una máquina de estados finitos (FSM) utiliza
 
 ## Resultados
 
-[Resultado_Semaforo.pdf](https://github.com/VHellsings/Sistemas-Programables/blob/main/Semaforo/Resultados/Resultado_Semaforo.pdf)
+Durante las pruebas, el semáforo cumplió con el comportamiento esperado de la máquina de estados finitos diseñada: el ciclo vehicular (verde-amarillo-rojo) se ejecutó con las duraciones programadas y de forma no bloqueante; el botón, presionado en verde o amarillo, armó correctamente la solicitud peatonal y esta se atendió de inmediato al llegar el vehicular a rojo, mientras que las pulsaciones fuera de esa ventana se ignoraron como estaba previsto; el antirrebote por software evitó activaciones falsas o múltiples; y, en ausencia de solicitud, el ciclo continuó de forma autónoma, validando así tanto el hardware armado en protoboard como la lógica de control implementada.
 
 ## Video del funcionamiento
 
-[Ver video](https://youtu.be/K3NXqwSUx-Y)
+[Ver video](https://youtu.be/XfsUzSpZSHo)
 
 ## Conclusiones
 
