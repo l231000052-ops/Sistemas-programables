@@ -21,11 +21,11 @@ Comparar de forma práctica el uso de `delay()` frente a `millis()` para el cont
 
 ## Diagrama del circuito
 
-![Diagrama del circuito](Diagrama_delay_y_millis.png)
+![Diagrama del circuito](Diagrama/Diagrama%20delay()%20y%20millis().png)
 
 ## Montaje físico
 
-![Montaje físico](Armado.jpeg)
+![Montaje físico](Diagrama/Armado.jpeg)
 
 ## Código
 
