@@ -34,7 +34,7 @@ Comparar de forma práctica el uso de `delay()` frente a `millis()` para el cont
 
 ## Reporte
 
-[Reporte.pdf](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Paradigmas%20de%20Ejecucion/Reporte_delay_millis.pdf)
+[Reporte.pdf](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Reporte/Reporte.pdf)
 
 ## Resultados
 
