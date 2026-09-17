@@ -21,7 +21,7 @@ Comprender el funcionamiento de las interrupciones externas en Arduino, utilizan
 
 ## Diagrama del circuito
 
-![Diagrama del circuito](Diagrama/Diagrama%20Buffer.png)
+![Diagrama del circuito](Diagrama/Diagrama%20Buffers.png)
 
 ## Montaje físico
 
