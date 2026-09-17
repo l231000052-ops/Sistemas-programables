@@ -2,12 +2,6 @@
 
 Práctica sobre paradigmas de ejecución en Arduino: control de tres LEDs con distintos intervalos de parpadeo (500 ms, 1000 ms y 1500 ms), comparando el uso de `delay()` frente a `millis()`, e incorporando una tarea adicional de impresión periódica por el puerto serie en la versión no bloqueante.
 
-## Integrantes
-
-* Javier
-* Gabriel
-* Rosa
-
 ## Descripción
 
 Este proyecto compara dos formas de manejar el tiempo en Arduino: la Parte 1 usa `delay()` para controlar tres LEDs, bloqueando por completo la ejecución del programa mientras transcurre cada pausa; la Parte 2 reimplementa el mismo control con `millis()`, logrando que cada LED parpadee de forma independiente y simultánea, además de agregar una tarea extra (mensaje "Hola Mundo" cada 3000 ms por el monitor serie) que corre en paralelo sin afectar el parpadeo.
@@ -55,6 +49,3 @@ Con `delay()`, los LEDs se encendían y apagaban en secuencia estricta, con un c
 
 Esta práctica dejó clara la diferencia entre bloquear el procesador con `delay()` y liberar su tiempo con `millis()`. Comparar ambas versiones del código permitió entender por qué `millis()` es indispensable cuando un sistema necesita atender varias tareas o eventos externos al mismo tiempo, y sentó las bases para prácticas posteriores como el semáforo con solicitud peatonal.
 
-## Autor
-
-[l231000052-ops](https://github.com/l231000052-ops/Sistemas-programables/commits?author=l231000052-ops)
