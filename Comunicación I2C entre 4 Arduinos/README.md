@@ -4,7 +4,7 @@ Sistema de comunicación por bus I2C entre un Arduino maestro y tres Arduinos es
 
 ## Descripción
 
-Este proyecto implementa un bus I2C en el que el maestro coordina a tres esclavos: uno enciende o apaga un LED según la orden recibida, otro mueve un servomotor según el ángulo recibido, y el tercero lee un potenciómetro y envía su valor cuando el maestro se lo solicita. Cada 500 ms el maestro pide el valor del potenciómetro al esclavo 3, lo convierte a un ángulo de 0° a 180° y se lo envía al esclavo 2, mientras que por el Monitor serie se puede escribir 1 o 0 para controlar el LED del esclavo 1. El maestro muestra en todo momento el estado de la comunicación y avisa si algún esclavo no responde.
+El maestro coordina tres esclavos por I2C: uno controla un LED, otro un servomotor, y otro lee un potenciómetro. Cada 500 ms el maestro pide el valor del potenciómetro, lo convierte a un ángulo (0°–180°) y lo envía al servo. Por el Monitor serie se puede escribir 1 o 0 para controlar el LED. El maestro reporta el estado de la comunicación y avisa si algún esclavo no responde.
 
 ## Objetivos de aprendizaje
 
