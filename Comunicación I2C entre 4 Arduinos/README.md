@@ -35,7 +35,7 @@ Comprender el funcionamiento del bus I2C mediante la comunicación entre un maes
 * [Esclavo1_LED.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Esclavo1(LED).ino)
 * [Esclavo2_Servo.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Esclavo2(servo).ino)
 * [Esclavo3_Potenciometro.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Esclavo3(potenciómetro).ino)
-* [Maestro.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/.ino)
+* [Maestro R4.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Maestro(con el cambio para el R4).ino)
 
 ## Reporte
 
