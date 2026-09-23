@@ -35,17 +35,11 @@ Comprender el funcionamiento del bus I2C mediante la comunicación entre un maes
 * [Esclavo1_LED.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Esclavo1(LED).ino)
 * [Esclavo2_Servo.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Esclavo2(servo).ino)
 * [Esclavo3_Potenciometro.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Esclavo3(potenciómetro).ino)
-* [Maestro R4.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Maestro(con el cambio para el R4).ino)
+* [Maestro R4.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Codigo/Maestro(con%20el cambio%20para%20el%20R4).ino)
 
 ## Reporte
 
 [Reporte.pdf](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Comunicaci%C3%B3n%20I2C%20entre%204%20Arduinos/Reporte/Reporte.pdf)
-
-## Monitor serie
-
-Con el bus ya funcionando, el Monitor serie del maestro muestra en tiempo real el valor leído del potenciómetro, el ángulo enviado al servomotor, y los mensajes de aviso cuando algún esclavo no responde (por ejemplo, "Esclavo 3 (potenciometro) no responde"). Al escribir 1 o 0 en el Monitor serie se confirma además el cambio de estado del LED.
-
-[Aquí se agregará la captura de pantalla del Monitor Serie.]
 
 ## Resultados
 
