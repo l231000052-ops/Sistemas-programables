@@ -47,7 +47,7 @@ Durante las pruebas, los tres esclavos respondieron correctamente a sus respecti
 
 ## Video del funcionamiento
 
-[Ver video](https://youtu.be/PLaHyPfBIBs)
+[Ver video](https://youtu.be/xtoZlY5BY0I)
 
 ## Conclusiones
 
