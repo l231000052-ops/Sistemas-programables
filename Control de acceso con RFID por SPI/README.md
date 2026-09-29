@@ -31,7 +31,7 @@ Comprender el funcionamiento del protocolo de comunicación SPI (líneas SCK, MO
 
 ## Código
 
-[acceso.ino](https://github.com/l231000052-ops/Sistemas-programables/blob/main/Control%20de%20acceso%20con%20RFID%20por%20SPI/Codigo/acceso.ino)
+[acceso.ino](Codigo/acceso.ino)
 
 ## Reporte
 
