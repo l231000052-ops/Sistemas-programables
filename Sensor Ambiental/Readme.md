@@ -8,12 +8,6 @@ El sistema lee la temperatura y la presión atmosférica, calcula la altitud apr
 
 El programa utiliza `millis()` para temporizar todas las tareas sin bloquear la ejecución, e incluye la detección automática del sensor y el reintento de conexión cuando no responde.
 
-## Integrantes
-
-* Gabriel
-* Javier
-* Rosa
-
 ## Objetivos
 
 * Conectar y configurar un sensor BMP280 mediante el protocolo I2C.
@@ -71,8 +65,6 @@ En el `loop()` se ejecutan dos tareas independientes controladas con `millis()`:
 
 [Ver código Estacion_BMP280.ino](Codigo/Estacion_BMP280.ino)
 
-[Ver carpeta Código](Codigo)
-
 ## Reporte
 
 En el reporte se explica el funcionamiento del sensor BMP280 mediante I2C, la detección del dispositivo por su Chip ID, el cálculo de la altitud a partir de la presión, el uso de la matriz de LEDs, la temporización con `millis()` y las pruebas realizadas durante la práctica.
@@ -89,9 +81,8 @@ En el Monitor Serie se observan las lecturas de temperatura, presión atmosféri
 
 En el siguiente video se muestra el funcionamiento de la estación barométrica y la información mostrada en la matriz de LEDs.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
+[Ver video de la práctica](https://www.youtube.com/watch?v=UhV9qVKZv70&feature=youtu.be)
 
-[Ver carpeta Video](Video)
 
 ## Conclusiones
 
