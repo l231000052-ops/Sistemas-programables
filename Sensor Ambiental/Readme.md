@@ -61,7 +61,7 @@ El programa busca el sensor en las direcciones `0x76` y `0x77` y lee el registro
 
 En el `loop()` se ejecutan dos tareas independientes controladas con `millis()`: la lectura del sensor cada 1000 ms y el cambio de pantalla de la matriz de LEDs cada 2500 ms. Si el sensor no responde o entrega una lectura inválida, la matriz muestra `ERR` y el programa reintenta la conexión cada 5000 ms.
 
-[Ver código Estacion_BMP280.ino](Codigo/Estacion_BMP280.ino)
+[Ver código](Codigo/Estacion_BMP280.ino)
 
 ## Reporte
 
@@ -79,7 +79,7 @@ En el Monitor Serie se observan las lecturas de temperatura, presión atmosféri
 
 En el siguiente video se muestra el funcionamiento de la estación barométrica y la información mostrada en la matriz de LEDs.
 
-[Ver video de la práctica](https://www.youtube.com/watch?v=UhV9qVKZv70&feature=youtu.be)
+[Ver video](https://www.youtube.com/watch?v=UhV9qVKZv70&feature=youtu.be)
 
 
 ## Conclusiones
