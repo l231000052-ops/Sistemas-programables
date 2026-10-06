@@ -55,8 +55,6 @@ Si se utiliza el conector Qwiic de la placa, se debe cambiar `USE_QWIIC` a `1` e
 
 ![Armado](Diagrama/Armado.jpeg)
 
-[Ver carpeta Diagrama](Diagrama)
-
 ## Código
 
 El programa busca el sensor en las direcciones `0x76` y `0x77` y lee el registro `0xD0` para comprobar que el Chip ID corresponde a un BMP280 (`0x58`). Después configura el sensor en modo normal con sobremuestreo y filtro IIR.
