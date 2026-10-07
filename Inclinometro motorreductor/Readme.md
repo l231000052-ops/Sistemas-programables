@@ -8,11 +8,6 @@ El signo del ángulo decide el sentido de giro y su magnitud decide la velocidad
 
 El programa utiliza `millis()` y `micros()` para ejecutar cuatro tareas sin bloquear la ejecución, e incluye un paro de seguridad que detiene el motor de inmediato cuando falla la lectura del sensor y se recupera solo cuando el sensor vuelve a responder.
 
-## Integrantes
-
-* Gabriel
-* Javier
-* Rosa
 
 ## Objetivos
 
@@ -69,7 +64,6 @@ El encabezado del código recomienda además conectar el pin AD0 del sensor a GN
 
 ![Armado](Diagrama/Armado.jpg)
 
-[Ver carpeta Diagrama](Diagrama)
 
 ## Código
 
@@ -78,8 +72,6 @@ Lo primero que hace el programa es dejar apagadas las salidas del motor. Despué
 En el `loop()` se ejecutan cuatro tareas controladas con `millis()`: la lectura del sensor y el filtro cada 10 ms, la rampa y el motor cada 20 ms, el Monitor Serie cada 500 ms y la matriz de LEDs cada 50 ms. Si la lectura del sensor falla, el motor se detiene sin rampa, la matriz muestra una X y el programa intenta reconectar el sensor cada 250 ms.
 
 [Ver código Inclinometro_Motor.ino](Codigo/Inclinometro_Motor.ino)
-
-[Ver carpeta Código](Codigo)
 
 ## Reporte
 
@@ -97,9 +89,7 @@ En el Monitor Serie se observa la inclinación con su dirección, grados e inten
 
 En el siguiente video se muestra el funcionamiento del inclinómetro y la respuesta del motorreductor al inclinar el sensor.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
-
-[Ver carpeta Video](Video)
+[Ver video de la práctica](https://youtu.be/6UzZZ69BlA8)
 
 ## Conclusiones
 
