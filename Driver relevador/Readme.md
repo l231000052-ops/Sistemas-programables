@@ -111,8 +111,6 @@ El `loop()` solo lee el Monitor Serie sin bloquear: junta los caracteres y ejecu
 
 [Ver código Driver_Relevador.ino](Codigo/Driver_Relevador/Driver_Relevador.ino)
 
-[Ver carpeta Código](Codigo)
-
 ## Pruebas
 
 1. **Prueba de seguridad 1 (órdenes demasiado seguidas):** se envía `M1,M0` en una sola línea. El motor enciende y la segunda orden se rechaza con el mensaje "Orden rechazada (Motor): espere 1 s entre cambios".
@@ -166,9 +164,8 @@ La captura del Monitor Serie se tomó en la simulación de Tinkercad, con el mis
 
 En el siguiente video se muestra el control del motor y del LED desde el Monitor Serie, el rechazo de órdenes demasiado seguidas y el estado seguro después del RESET.
 
-[Ver video de la práctica](PEGAR_ENLACE_DEL_VIDEO)
+[Ver video de la práctica](https://youtube.com/shorts/ZHlO-EXlY4w?feature=share)
 
-[Ver carpeta Video](Video)
 
 ## Conclusiones
 
